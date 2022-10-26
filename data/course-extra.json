@@ -5,7 +5,8 @@
     "purchase": 9,
     "updated": "Jan-01-22",
     "ratings": 4.5,
-    "author": "John Doe"
+    "author": "John Doe",
+    "img": "https://bidinnovacion.org/economiacreativa/wp-content/uploads/2014/10/speaker-3.jpg"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "purchase": 9.99,
     "updated": "Aug-10-22",
     "ratings": 4.7,
-    "author": "Jonas Schmedtman"
+    "author": "Jonas Schmedtman",
+    "img": "https://codingheroes.io/assets/img/J15.jpg"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "purchase": 15.99,
     "updated": "Sept-01-22",
     "ratings": 5,
-    "author": "Jonas Schmedtman"
+    "author": "Jonas Schmedtman",
+    "img": "https://codingheroes.io/assets/img/J15.jpg"
   },
   {
     "id": 4,
@@ -29,14 +32,16 @@
     "purchase": 12.99,
     "updated": "Jan-01-22",
     "ratings": 4.5,
-    "author": "Sumit Saha"
+    "author": "Sumit Saha",
+    "img": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
   },
   {
     "id": 5,
     "name": "Node.js",
     "purchase": 12.99,
     "ratings": 4.9,
-    "author": "Jonas Schmedtman"
+    "author": "Jonas Schmedtman",
+    "img": "https://codingheroes.io/assets/img/J15.jpg"
   },
   {
     "id": 6,
@@ -44,6 +49,7 @@
     "purchase": 9.99,
     "updated": "Jan-01-22",
     "ratings": 4.4,
-    "author": "Andrei Neagoei"
+    "author": "Andrei Neagoei",
+    "img": "https://entrepreneurship.uwo.ca/imageGen.ashx?image=/media/3790271/andrei_n.png&width=1548&compression=80&constrain=true&format=jpeg"
   }
 ]
