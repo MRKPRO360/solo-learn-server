@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "purchase": 9,
+    "updated": "Jan-01-22",
+    "ratings": 4.5,
+    "author": "John Doe"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "purchase": 9.99,
+    "updated": "Aug-10-22",
+    "ratings": 4.7,
+    "author": "Jonas Schmedtman"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "purchase": 15.99,
+    "updated": "Sept-01-22",
+    "ratings": 5,
+    "author": "Jonas Schmedtman"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "purchase": 12.99,
+    "updated": "Jan-01-22",
+    "ratings": 4.5,
+    "author": "Sumit Saha"
+  },
+  {
+    "id": 5,
+    "name": "Node.js",
+    "purchase": 12.99,
+    "ratings": 4.9,
+    "author": "Jonas Schmedtman"
+  },
+  {
+    "id": 6,
+    "name": "Next.js",
+    "purchase": 9.99,
+    "updated": "Jan-01-22",
+    "ratings": 4.4,
+    "author": "Andrei Neagoei"
+  }
+]
