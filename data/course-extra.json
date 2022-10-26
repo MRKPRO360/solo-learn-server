@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "HTML",
-    "purchase": 9,
+    "purchase": 4.99,
     "updated": "Jan-01-22",
     "ratings": 4.5,
     "author": "John Doe",
@@ -31,7 +31,7 @@
     "name": "React",
     "purchase": 12.99,
     "updated": "Jan-01-22",
-    "ratings": 4.5,
+    "ratings": 4.8,
     "author": "Sumit Saha",
     "img": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
   },
