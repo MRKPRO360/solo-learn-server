@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "HTML",
-    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw3zkf-esiD89bf6jRYjk8uH&ust=1666861258084000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPjv7ZfE_foCFQAAAAAdAAAAABAE",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
     "text": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables"
   },
   {
     "id": 2,
     "name": "CSS",
-    "img": "https://i.pinimg.com/736x/e4/3e/4c/e43e4cd41ddffc21d2e6600dfca20306--logo-software-logotype.jpg",
+    "img": "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png",
     "text": "CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen, paper, or  in other media CSS saves a lot of work. It can control the layout of multiple web pages all at once External stylesheets are stored in CSS files"
   },
   {
@@ -25,14 +25,14 @@
   },
   {
     "id": 5,
-    "name": "MongoDB with Node and Express",
-    "img": "https://miro.medium.com/max/600/1*NFTgwZ_TUmceZnSHCundBw.jpeg",
+    "name": "Node.js",
+    "img": "https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg",
     "text": "MongoDB is the most powerful database system to work with node.js and express(node framework) makes the node application to organize and keep adapting with MVC architecture."
   },
   {
     "id": 6,
     "name": "Next.js",
-    "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdecodenatura.com%2Fhow-to-set-up-nextjs-typescript-eslint-prettier%2F&psig=AOvVaw0nsb0JOsoHiYIbzX_zWp6Q&ust=1666861670603000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIC6sdzF_foCFQAAAAAdAAAAABAI",
+    "img": "https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png",
     "text": "Next.js is a React framework that gives you building blocks to create web applications. By framework, we mean Next.js handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application."
   }
 ]
